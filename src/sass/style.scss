@@ -1,0 +1,8 @@
+@import 'base';
+@import 'typography';
+
+$mainColor: blue;
+
+body {
+  background-color: $mainColor;
+}
